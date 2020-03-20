@@ -15,7 +15,7 @@ var _0x3b82=['\x52\x46\x52\x53\x54\x30\x4e\x4c\x55\x79\x45\x3d','\x52\x32\x56\x3
 
 ## Solution:
 
-Yikes! That's a mess. At first glance, this file tells us nothing. However, there's a clue in the question. To `deobfuscate` means to take a program that is hard to understand and make it simple. People like to do this with javascript to hide functions they don't want users seeing. FOrtunately for us, there are tools to deobfuscate the code. Head on over [deobfuscate javascript](http://deobfuscatejavascript.com/#) and paste in the file. A bubble will pop up saying `Flag : DTROCKS!`.
+Yikes! That's a mess. At first glance, this file tells us nothing. However, there's a clue in the question. To `deobfuscate` means to take a program that is hard to understand and make it simple. People like to do this with javascript to hide functions they don't want users seeing. Fortunately for us, there are tools to deobfuscate the code. Head on over [deobfuscate javascript](http://deobfuscatejavascript.com/#) and paste in the file. A bubble will pop up saying `Flag : DTROCKS!`.
 
 ```
 DTROCKS!
